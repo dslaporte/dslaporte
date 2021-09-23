@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/dslaporte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dslaporte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dslaporte&count_private=true&layout=compacttheme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dslaporte&count_private=true&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
